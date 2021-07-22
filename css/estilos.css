@@ -1,0 +1,19 @@
+body{ margin:50px;
+    padding: 30px;
+    font-size: 20px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image:url(https://wallpapercave.com/wp/wp2825715.jpg);
+    background-repeat: no-repeat;
+}
+
+nav{color:white;
+    background-color: white;
+    padding: 0px;
+    color:#00DB87;
+    border-radius: 30px;
+
+
+}
+
+p{color:blanchedalmond;}
